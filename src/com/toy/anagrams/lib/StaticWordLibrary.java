@@ -51,7 +51,7 @@ final class StaticWordLibrary extends WordLibrary {
         "disambiguate",
         "dynamic",
         "encapsulation",
-        "equivalent",
+        "Jeg er dum",
         "expression",
         "facilitate",
         "fragment",
